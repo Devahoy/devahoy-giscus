@@ -1,3 +1,3 @@
 # Giscus Comment
 
-Enable Giscus comment on devahoy.com
+Enable Giscus comment on https://devahoy.com
